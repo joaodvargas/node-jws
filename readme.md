@@ -1,4 +1,4 @@
-### Hi world!
+### Hi world! v2
 
 # node-jws [![Build Status](https://secure.travis-ci.org/brianloveswords/node-jws.svg)](http://travis-ci.org/brianloveswords/node-jws)
 
